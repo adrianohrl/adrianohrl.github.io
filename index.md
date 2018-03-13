@@ -1,3 +1,4 @@
 
-[about](../blob/master/en/about)
-[sobre](../blob/master/pt/sobre)
+[about](en/about)
+
+[sobre](pt/sobre)
