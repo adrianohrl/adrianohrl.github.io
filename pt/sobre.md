@@ -39,4 +39,6 @@ Além disso, sendo um dos membros da equipe Expertinos, também representou a UN
 - *Scheduling*;
 - e *Data Science*.
 
-[![PDF](logos/pdf/180x180.png) Currículo](curriculo.pdf)
+![PDF](logos/pdf/180x180.png)
+
+[![PDF](https://github.com/adrianohrl/adrianohrl.github.io/blob/master/logos/pdf/180x180.png?raw=true "Baixe o meu currículo em PDF") Currículo](curriculo.pdf)
