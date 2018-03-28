@@ -38,4 +38,4 @@ In addition, as an Expertinos Team member, he represented UNIFEI in Brazilian an
 - Scheduling;
 - and Data Science.
 
-[Currículo](curriculum.pdf)
+[Curriculum](curriculum.pdf)
