@@ -39,4 +39,4 @@ Além disso, sendo um dos membros da equipe Expertinos, também representou a UN
 - *Scheduling*;
 - e *Data Science*.
 
-[Currículo](../blob/master/pt/curriulum.pdf)
+[Currículo](curriculum.pdf)
