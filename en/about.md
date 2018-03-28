@@ -5,7 +5,7 @@
 The main activities during his graduation were: 
 - subject monitor;
 - scientific initiation researcher;
-- Expertinos Autonomous Robotics Team member
+- Expertinos Autonomous Robotics Team member;
 - as well as, scholar in the Science without Borders (CsF) program, studying at Tennessee Technological University (**TnTech**) in United States of America (USA), sponsored by the Brazilian government (CAPES).
 
 In the beginning of 2016, he enrolled in the Masters program in **Electrical Engineering** at UNIFEI, in which its emphasis was **Electrical and Industrial Systems and Automation**. In March of 2018, he was approved in his Masters dissertation defense. It was named as "*TAlMech*: a Framework for the Development of Multi-Robot Task Allocation Architectures".
@@ -23,7 +23,7 @@ using many techniques:
 - artificial intelligence (AI);
 - optimization;
 - decision making;
-- planning 
+- planning;
 - and scheduling. 
 
 In addition, as an Expertinos Team member, he represented UNIFEI in Brazilian and international autonomous systems competitions and challenges.
@@ -38,4 +38,4 @@ In addition, as an Expertinos Team member, he represented UNIFEI in Brazilian an
 - Scheduling;
 - and Data Science.
 
-[Curriculum](curriculum.pdf)
+![PDF](logos/pdf/180x180)[Curriculum](curriculum.pdf)
