@@ -38,4 +38,6 @@ In addition, as an Expertinos Team member, he represented UNIFEI in Brazilian an
 - Scheduling;
 - and Data Science.
 
-[![PDF](https://github.com/adrianohrl/adrianohrl.github.io/blob/master/logos/pdf/180x180.png?raw=true "Download my resume in PDF") Curriculum](curriculum.pdf)
+[![PDF](https://github.com/adrianohrl/adrianohrl.github.io/blob/master/logos/pdf/32x32.png?raw=true "Download my resume in PDF") Curriculum](curriculum.pdf)
+
+[![PDF](https://github.com/adrianohrl/adrianohrl.github.io/blob/master/logos/pdf/64x64.png?raw=true "Download my resume in PDF") Curriculum](curriculum.pdf)
