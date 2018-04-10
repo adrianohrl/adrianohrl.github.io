@@ -1,6 +1,12 @@
+url: http://adrianohrl.tech
 theme: jekyll-theme-cayman
 title: "AdrianoHRL"
 description: "This website documents my main projects."
 show_downloads: False
 google_analytics: UA-116580538-1
-languages: ["en", "pt"]
+languages: ["en", "de"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  de: Deutsch
+  en: English
