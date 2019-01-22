@@ -17,6 +17,7 @@ Paralelamente às suas atividades do mestrado, desenvolveu pesquisas como integr
 - navegação robótica;
 - alocação de tarefas (MRTA);
 - e suas arquiteturas.
+
 usando técnicas:
 - de processamento de imagens;
 - controle;
