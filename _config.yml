@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Adriano Henrique Rossette Leite"
   avatar           : "/assets/logos/adrianohrl/512x512.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MSc. in Electrical Engineering and BSc. in Control and Automation Engineering by Federal University of Itajubá."
-  location         : "Jacutinga, MG, Brazil"
+  bio              : "Spc. in Data Science</br>MSc. in Electrical Engineering</br>BSc. in Control and Automation Engineering"
+  location         : "São Paulo, SP, Brazil"
   email            : "contact@adrianohrl.tech"
   uri              : 
   home             : "http://adrianohrl.tech/" # null (default), "absolute or relative url to link to author home"
